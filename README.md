@@ -1,4 +1,4 @@
-# TDK Sözluk Fonksiyonu Örnek Kullanım
+# TDK Sözlük Fonksiyonu Örnek Kullanım
 <b>KOD:</b><br>
 <code>
 include 'TDKSozluk.php'</code><br>
