@@ -2,7 +2,7 @@
 <b>KOD:</b><br>
 <code>
 include 'TDKSozluk.php'</code><br>
-<code>$ara = TDKSozluk.php("Efsane");</code><br>
+<code>$ara = TDKSozluk("Efsane");</code><br>
 <code>print_r($ara);</code><br/>
 <b>ÇIKTI:</b><br>
 <code>
